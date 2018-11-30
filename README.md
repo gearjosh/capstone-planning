@@ -1,6 +1,6 @@
 # Capstone Planning
 
-#### , November 30, 2018
+#### Planning for my capstone project, November 30, 2018
 
 #### By Josh Gearheart
 
