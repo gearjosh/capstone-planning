@@ -6,9 +6,11 @@
 
 ## Project Description
 
-#### Name of Project: "Letterboxd... but for music!" (no title yet)
+#### Name of Project:
+"Letterboxd... but for music!" (no title yet)
 
-#### Project’s Purpose or Goal: It will be an app to log and review album listens, similar to what letterboxd.com is for movies.
+#### Project’s Purpose or Goal:
+It will be an app to log and review album listens, similar to what letterboxd.com is for movies.
 
 #### List the absolute minimum features the project requires to meet this purpose or goal:
 
@@ -17,7 +19,7 @@
 - User can rate and/or review an album
 - User can view a profile to see their ratings, reviews, and listens.
 
-#### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and yourlanguage) will you use to create this MVP? List them all here. Be specific.
+#### What tools, frameworks, libraries, APIs, modules and/or other resources will be used?
 
 - React
 - Redux
@@ -25,7 +27,7 @@
 - Sass
 - Firebase
 
-#### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+#### What are the stretch goals?
 
 - Add user authentication so that more than one user can use the site at once.
 - Users can pick a list of favorite albums to display on a profile.
@@ -39,11 +41,11 @@
 #### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 - OAuth
-- `Maybe something else, but that's not clear yet.
+- Maybe something else, but that's not clear yet.
 
 ## Planning
 
-
+- tbd
 
 ### Specs
 
@@ -83,8 +85,8 @@ If you have a windows machine, you may also need a terminal program.  If so, dow
 ### Install
 
 - Open terminal and enter `$ cd Desktop` (or your preferred destination).
-- Then enter `$ git clone https://github.com/gearjosh/beeriodic-table.git`.
-- Enter `$ cd beeriodic-table`.
+- Then enter `$ git clone https://github.com/gearjosh/XXXXX.git`.
+- Enter `$ cd XXXXX`.
 - Enter `$ npm install`
 - Finally, enter `$ npm run start`.
 
