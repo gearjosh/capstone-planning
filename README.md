@@ -45,9 +45,9 @@ It will be an app to log and review album listens, similar to what letterboxd.co
 
 ## Planning
 
-- tbd
+- See capstone-planning.sketch for details! 
 
-### Specs
+<!-- ### Specs
 
 ## Setup/Installation Requirements
 
@@ -93,7 +93,7 @@ If you have a windows machine, you may also need a terminal program.  If so, dow
 ## Notes
 
 
-## Known Bugs
+## Known Bugs -->
 
 
 ## Support and contact details
