@@ -7,7 +7,7 @@
 ## Project Description
 
 #### Name of Project:
-"Letterboxd... but for music!" (no title yet)
+Runout, AKA: "Letterboxd... but for music!"
 
 #### Project’s Purpose or Goal:
 It will be an app to log and review album listens, similar to what letterboxd.com is for movies.
