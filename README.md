@@ -43,9 +43,11 @@ It will be an app to log and review album listens, similar to what letterboxd.co
 - OAuth
 - Maybe something else, but that's not clear yet.
 
-## Planning
+## Mockup
 
-- See capstone-planning.sketch for details! 
+See the screenshot below and take a look at capstone-planning.sketch for more details.
+
+![screenshot](https://raw.githubusercontent.com/gearjosh/capstone-planning/master/img/screenshot.png)
 
 <!-- ### Specs
 
