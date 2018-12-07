@@ -7,7 +7,7 @@
 ## Project Description
 
 #### Name of Project:
-Runout, AKA: "Letterboxd... but for music!"
+_The Runout_, AKA: "Letterboxd... but for music!"
 
 #### Project’s Purpose or Goal:
 It will be an app to log and review album listens, similar to what letterboxd.com is for movies.
