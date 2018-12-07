@@ -49,6 +49,9 @@ See the screenshot below and take a look at capstone-planning.sketch for more de
 
 ![screenshot](https://raw.githubusercontent.com/gearjosh/capstone-planning/master/img/homepage-screenshot.png)
 
+## Component interested
+![component tree](https://raw.githubusercontent.com/gearjosh/capstone-planning/master/img/component_tree.jpg)
+
 <!-- ### Specs
 
 ## Setup/Installation Requirements
